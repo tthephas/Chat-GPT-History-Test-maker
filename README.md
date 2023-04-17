@@ -1,5 +1,5 @@
-# Chat-GPT-History-Test-maker
+# Chat-GPT-History-Tutor
 
-Allows a user to build a history test using chat gpt API. User can also make an answer sheet, and even have the program grade the test.
+Allows a user to use chatGPT as a history tutor using special prompts and API connection
 
 Python, jupyter notebook, API openAI
